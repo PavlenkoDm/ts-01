@@ -1,0 +1,16 @@
+{
+  "name": "ts-01",
+  "version": "1.0.0",
+  "description": "ts-project-01",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc app.ts",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
